@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+img{
+ height: 420px;
+}
+.line{
+	position: relative;
+}
+.line1{
+	position: absolute;
+	top: 339px;
+	margin-left: 30px;
+    margin-bottom: 30px;
+    background-color: white;
+
+}
+.first-line{
+	margin-left: 420px;
+	margin-top: 26px;
+}
+.line2{
+	position: relative
+}
+.line3{
+	position: absolute;
+	bottom: 30px;
+	margin-left: 30px;
+	background-color: white
+}
+
+div{
+//*display: inline-block;*//
+}
+.other{
+	margin-top: 70px;
+	margin-left: 739px;
+
+}
